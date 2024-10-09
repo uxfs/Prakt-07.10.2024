@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\bin\Debug\СергеевПрактикаСредАриф.exe.config
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\bin\Debug\СергеевПрактикаСредАриф.exe
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\bin\Debug\СергеевПрактикаСредАриф.pdb
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\obj\Debug\СергеевПрактикаСредАриф.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\obj\Debug\СергеевПрактикаСредАриф.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\obj\Debug\СергеевПрактикаСредАриф.exe
+C:\Users\user\source\repos\СергеевПрактикаСредАриф\obj\Debug\СергеевПрактикаСредАриф.pdb
+C:\Users\user\source\repos\PraktSergeev\СергеевПрактика\obj\Debug\СергеевПрактикаСредАриф.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PraktSergeev\СергеевПрактика\obj\Debug\СергеевПрактикаСредАриф.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PraktSergeev\СергеевПрактика\obj\Debug\СергеевПрактикаСредАриф.exe
+C:\Users\user\source\repos\PraktSergeev\СергеевПрактика\obj\Debug\СергеевПрактикаСредАриф.pdb
